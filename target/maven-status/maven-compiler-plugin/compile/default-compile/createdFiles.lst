@@ -1,0 +1,4 @@
+com\niit\shoppingcart\model\Category.class
+com\niit\shoppingcart\config\ApplicationContextConfig.class
+com\niit\shoppingcart\dao\CategoryDAOimpl.class
+com\niit\shoppingcart\dao\CategoryDAO.class
